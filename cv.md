@@ -8,6 +8,7 @@ A person who works well under the pressure and exudes positivity and confidence 
 Skills: C++, QT, C#, Python, Unity
 
 Code example: 
+
     std::string tmp = ui->text_get->toPlainText().toStdString();
     std::regex regular("(class|struct)\\s+(\\w|\\d|_)+\\s*\\{");
     std::smatch res;
